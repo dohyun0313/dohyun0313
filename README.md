@@ -3,7 +3,7 @@
 
 ----
 
-Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay logic to cinematic cutscenes in Unity and Unreal. I care about smooth controls, clear structure, and emotionally engaging interactions. 🎥
+introduction
 
 ----
 
