@@ -1,17 +1,17 @@
-## Hi there 👋
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+### Nice ways to reach me
+<a href="mailto:parkdohyun0313@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkdohyun0313@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-<!--
-**dohyun0313/dohyun0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+Hi! I’m a Metaverse & Game Studies student crafting games — from gameplay logic to cinematic cutscenes in Unity and Unreal. I care about smooth controls, clear structure, and emotionally engaging interactions. 🎥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+----
